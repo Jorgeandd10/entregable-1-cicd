@@ -1,7 +1,5 @@
 # Entregable 1 - CI/CD: Introducción a Git, GitHub y GitHub Actions
 
-# Entregable 1 - CI/CD: Introducción a Git, GitHub y GitHub Actions
-
 ## Integrantes
 
 **Nombres usados en AUTOR:** Jorge Andres Duran Cotamo
